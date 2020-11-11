@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fsf-pt-06-2020-u-c/tree/master/18-PWA/02-Homework"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/bmartinez2018/budget-tracker/issues"
   },
-  "homepage": "",
+  "homepage": "https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-fsf-pt-06-2020-u-c/blob/master/18-PWA/02-Homework/README.md",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
